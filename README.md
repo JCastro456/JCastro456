@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**JCastro456/JCastro456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Sou Jackeline 😊✔.
+ 
+ Formada em Ciências Contábeis e Técnica em Processamento de Dados.
+ Atualmente em transição de carreira para a área de TI.
+ 
+ 🚀 Skills
+  
+ ![image](https://user-images.githubusercontent.com/101068316/165142027-9bf80066-18f0-48fd-b571-efb15a804c47.png)
+ ![image](https://user-images.githubusercontent.com/101068316/165142105-318e29c0-124f-45a4-991d-78867f6d656e.png)
+ ![image](https://user-images.githubusercontent.com/101068316/165142147-8fa2bf62-ff5c-40c6-9dcf-ec517fd70910.png)
+ ![image](https://user-images.githubusercontent.com/101068316/165142199-f92e9742-86dc-498b-8957-5df964722482.png)
 
-Here are some ideas to get you started:
+ 
+ 
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
