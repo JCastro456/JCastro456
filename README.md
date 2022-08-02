@@ -2,10 +2,10 @@
 
  Sou Jackeline 😊✔.
  
- Formada em Ciências Contábeis e Técnica em Processamento de Dados.
- Atualmente em transição de carreira para a área de TI.
+ Formada em Ciências Contábeis e Técnica em Processamento de Dados atualmente em transição de carreira.
+ Também amo artesanato e cinema. 
  
- 🚀 Skills
+ 🚀 Estudando as seguintes tecnologias:
   
  ![image](https://user-images.githubusercontent.com/101068316/165142027-9bf80066-18f0-48fd-b571-efb15a804c47.png)
  ![image](https://user-images.githubusercontent.com/101068316/165142105-318e29c0-124f-45a4-991d-78867f6d656e.png)
