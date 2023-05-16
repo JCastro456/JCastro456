@@ -2,8 +2,7 @@
 
  Sou Jackeline 😊✔.
  
- Formada em Ciências Contábeis e Técnica em Processamento de Dados atualmente em transição de carreira.
- Também amo artesanato e cinema. 
+ Formada em Ciências Contábeis e Técnica em Processamento de Dados atualmente em transição de carreira, procuro uma oportunidade de iniciar na área. 
  
  🚀 Conheço as seguintes tecnologias:
   
